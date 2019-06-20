@@ -1,9 +1,9 @@
 var config = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyAnXO2w4Wwv3MH_EKwx6kE69xDJAwPry04",
   authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  databaseURL: "https://funretro-2359c.firebaseio.com/",
+  projectId: "funretro-2359c",
+  storageBucket: "funretro-2359c.appspot.com/",
   messagingSenderId: "YOUR_MESSAGE_ID"
 };
 
